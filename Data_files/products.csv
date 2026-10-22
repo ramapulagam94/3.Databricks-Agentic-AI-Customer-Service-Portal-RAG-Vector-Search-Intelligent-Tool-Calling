@@ -1,0 +1,554 @@
+product_id,product_name,product_category,product_sub_category
+9eee3547-9ca0-4fe4-8be5-a6c2dd2ef96d,BrownBox SwiftWatch X500,Gadgets,Smartwatch
+bff42cfb-2730-490c-9da8-a0987e686ec9,SmartX Pro,Wearable Technology,Smartwatch
+3de8f0d9-7e14-4673-b181-61194ababee4,StridePro Runner,Men/Women/Kids,Shoes
+594ef1d3-3dfc-4829-9e98-5276c70c152f,Urban Explorer Jacket,Men/Women/Kids,Clothing
+b739e42e-ba7d-40da-8e4b-f5472506a442,Elegance Extendable Dining Table,Furniture,Dining Table
+89b18fc7-76d5-4c38-939b-90d6a588fa1f,Flexi-Comfort Office Desk,Furniture,Office Desk
+1338b91b-975f-463a-acdc-d6e2b6defe35,BlendMaster Elite 4000,Home & Kitchen,Blender
+21ba0285-1c61-4763-b821-6a7ca6144afc,BrewMaster Elite,Home & Kitchen,Coffee Maker
+f2451f03-ff35-4208-aca4-00aa56c7bf6e,StreamEase,Subscription,Streaming Service
+b37ecc27-6cef-4396-b68c-f696102bd820,TurboBlend 3000,Home and Kitchen,Blender
+11b9e55a-fbb8-4c20-8878-3f8cb7e3aefa,Chef's Choice Elite Cookware Set,Home and Kitchen,Cookware Set
+a3c4d4ba-2899-4422-880d-1fd954f8bff8,ThermoTech SmartHome Pro 3000,Smart Home Devices,Smart Thermostat
+7286180f-0990-46d4-8708-c8cbf4ddc790,ThermoSmart Elite 5000,Smart Home,Smart Thermostat
+818b4450-3302-43a1-9668-ef93646384c4,StreamMaster Pro,Digital Services,Streaming Service
+a482e45b-20d5-4860-b699-f8596b300064,GrassMaster Pro 2000,Home and Garden,Lawn Mower
+3dcf8ee0-822c-4f45-b26e-9e67852919af,Arctic Shield 360° Winter Jacket,Clothing,Winter Jacket
+c113a5cd-3479-4a14-a588-08f386bc4a12,AlpinePro Waterproof Jacket,Clothing,Jacket
+a4949345-9e5b-41bc-b8c2-7aeb08cc776a,UrbanTrend Classic Straight Jeans,Clothing,Jeans
+34ea2768-d7d1-4640-af5b-29d3ab3a7941,EcoFresh 5000,Appliances,Washing Machine
+d9c8d768-146e-4410-9b2b-1ed8cd8421a7,CoolTech 7000,Appliances,Smart Refrigerator
+38985df5-b644-4e35-96b3-3e2aa8b0604c,BBX Cyclone Pro 2023,Appliances,Vacuum Cleaner
+267952ec-6ec9-4a84-9262-fd56defed5d4,CoolWave 3500,Appliances,Air Conditioner
+a3fe6fa1-59e8-499e-bd30-a2b0cfa0ba2c,StreamEase Plus,Online Services,Streaming Service
+9e43ad48-c96c-4b74-b9ea-365e47294a14,CloudSecure Pro,Online Services,Cloud Storage
+22e139e6-85cf-4108-abbe-28451cec79d3,MelodyStream,Subscription Services,Music Streaming
+f8380fd5-bc48-4ad4-bd2c-a66d59dfe8c3,StreamWave,Subscription Services,Online Streaming
+984ef9d5-924e-428e-9e49-efd73edd9c27,StreamPlus Premium,Subscription Service,Streaming Service
+16e3bff4-17b1-408b-9cdb-0b587cecc16c,EcoClean 4000,Home Goods,Vacuum Cleaner
+7ba161e3-08ab-4a43-a239-ae3d2c1786f3,BrewMaster 3000,Home Goods,Coffee Maker
+44ad0352-ed4e-48f4-a6d8-7610e955c776,TurboBlend 5000,Home Goods,Blender
+aa210ee3-ed26-43be-89a5-e819a2452935,FlexiCoffee Pro Convertible Table,Home,Furniture
+80b97a26-054b-45c2-a3c9-4c6801a4e84b,Visiomeg UltraSmart 65,Home Electronics,Smart TV
+043138d9-7574-4678-9966-b0706b0ec52b,StrideMax Running Shoes,Apparel,Shoes
+235e78c9-f7c0-43e6-ae1b-1267f7d2c9f8,NetLink UltraRX300,Networking,Router
+c0523e60-d06e-453d-9bab-79e7c8351695,Luna Touch LED Table Lamp,Home Decor,Table Lamp
+bb4ce626-b216-47ed-8d14-90af8a4231d7,Artistry Canvas Masterpiece,Home Decor,Wall Art
+5ddd9d33-601f-4e30-a16f-b2bf7e64022a,Luminous Artis Table Lamp,Home Decor,Lamp
+34651df6-0b5b-4191-8a21-2c1072413d80,ModernGlow LED Desk Lamp,Home Decor,Lamps
+224a7e95-154b-426c-be6b-3bd2cf14b3c7,Moroccan Mystique Rug,Home Decor,Rugs
+b10d3eba-2c3f-456e-9978-eb0738dc069a,Whispering Shadows by James Harper - Hardcover Edition,Books,Fiction
+57c25ff5-4ca8-42e1-8df9-f420e720f5cf,StreamEase,Services,Online Streaming
+2f484ee6-4877-4122-8296-da5cdc4c6dc2,StreamMax,Services,Streaming Service
+bca1b89a-af11-4a57-95c7-87f6d3b0e3a6,StreamBox Platinum,Services,Online Subscription
+427413e5-417c-4901-b45e-585b56c528ff,SubMaster,Services,Subscription
+b6fa0325-ef65-4484-8f7e-7a3945938830,StreamHub Plus,Services,Streaming
+4048e626-ad94-4ec3-bce7-2f339e04ede3,StarNet UltraConnect 150,Services,Internet Subscription
+e4414ece-256f-4823-87d6-aebbc0ab830e,SecureShield Antivirus Pro,Software,Antivirus Program
+9889a28a-6728-47e6-8c32-3ac957990c2c,CloudSync Pro,Software,Subscription Service
+9b50973d-8d68-427c-92a2-54136a4cffa7,PhotoMaster Pro,Software,Photo Editing Software
+3dc5ef25-b869-4a2d-8a9e-84c742c1a26b,ArtisticFlow Pro,Software,Graphic Design Software
+adad8127-df3b-4c1c-acd7-d0ff15916f23,BrownBox ProX15,Computers,Laptop
+f47193f9-79a0-4b70-9a57-167825fd6f95,UltraTech X2000,Computers,Laptops
+11d916b4-ee41-4dc9-a0d5-e08e096d3a05,CineWave,Entertainment,Streaming Service
+c10e8b33-29fa-47c3-841a-5002d3095bc7,QuickHeat Pro MW2023,Home Appliances,Microwave Oven
+76353974-2a54-42d4-9168-70057e45afea,EcoWash 700,Home Appliances,Washing Machine
+b2f152c9-d661-4246-a080-97536ada1dee,CoolTech Elite 5500,Home Appliances,Air Conditioner
+93b5f503-d0ce-42df-bbae-8b41a418bc2f,PureBreath 600,Home Appliances,Air Purifier
+5a4252ef-caf7-40e3-b898-273074385fe7,BrownBox Stellar X12,Mobile Phones,Smartphone
+e6037cc1-1ab1-4512-829b-86a19e19b6ad,Revitalize Radiance Serum,Beauty,Skincare
+fa4a67d7-a36b-4de3-9c1d-664a288fff45,Teak Elegance Patio Set,Home & Garden,Outdoor Furniture
+68a1cdd5-af21-457b-8271-bc6e5a3ddcdb,SmartPro X10,Electronics,Smartphone
+7f0e97d9-de43-47ba-8942-15df08b15d38,BrownBox Galaxy Tab A,Electronics,Tablet
+19bf77b2-e0fb-429a-a1ec-3e75f99508d6,SmartPrint 5000,Electronics,Printer
+8b480cd6-7ff4-4d7e-96b3-d1983ab5a29f,EchoPlus Fusion,Electronics,Smart Speaker
+e34a186a-b270-472a-9476-0f7b84e9aee5,SyncSound Pro Wireless Headphones,Electronics,Bluetooth Headphones
+1c75553f-1990-4506-a28f-c4aedfd0efac,SoundWave Elite Wireless Headphones,Electronics,Wireless Headphones
+61d874c6-1641-4f00-8d3c-80d1efb38939,Urban Explorer Windbreaker,Fashion,Jackets
+7ce412ff-ef78-48a2-9c8e-b72c7422eccb,StrideMax Runner Pro,Fashion,Shoes
+47aa8d15-41ed-444e-8043-935fe99aa2fd,FleetFlex 2.0,Fashion,Sneakers
+b4f1a576-5ce4-43b0-abb7-40b6ec758a91,UrbanFlex Convertible Jacket,Fashion,Clothing
+f487812e-4644-4928-9252-2a3527f799b5,BrownBox ProWave Smartwatch,Wearable Technology,Smartwatch
+75d1c3f2-9acc-47ed-975f-11ae0486c6f3,All-Weather Explorer Jacket,Men/Women/Kids,Jacket
+293640ab-da18-477f-9b04-80362e936dc2,EcoFlex Rain Jacket,Men/Women/Kids,Jackets
+9fcc891b-f924-4463-b5cb-7e42c9b6560c,WindGuard Pro Smart Windbreaker,Men/Women/Kids,Clothing
+d652c884-223b-437d-9ca2-47fc5930fd32,Elegance Recliner Sofa,Furniture,Sofa
+6da23064-4210-45ad-9c66-5445d8cbca8e,Contemporary Oak Bookshelf,Furniture,Bookshelf
+7d5c9743-a5f1-4a75-9554-0a351b287859,ErgoFlex Pro 3000,Furniture,Office Chairs
+87a74ad9-5384-4983-8d2c-d0bed2588e5e,TurboBlend Master 3000,Home & Kitchen,Blender
+b4c619d7-09c8-482d-afe6-a5f5b21931fe,BrewMaster 4000,Home & Kitchen,Coffee Maker
+0eedc550-ed92-4bec-a800-bb9224faba07,TurboBlend 3000,Home and Kitchen,Blender
+7479b8db-1ecd-4724-a89f-a9af118503a5,BrewMaster X200,Home and Kitchen,Coffee Maker
+8bb40b67-42e2-4b6d-806a-08c13e1387c2,HomeTech ThermoX Model 2000,Smart Home,Smart Thermostat
+4261da0f-4142-4156-bf5c-10cb9f3541d5,EchoSound Pro,Smart Home,Smart Speaker
+72d3cf8b-353b-448a-9b1f-d0cc7121e29e,StreamSphere,Digital Services,Streaming Subscription
+10ab389d-8251-40bc-8446-1fd8cffbbf90,Luxe Veranda Patio Set,Home and Garden,Outdoor Furniture
+c4c23c5c-557f-4c92-8efa-442adccd2702,EcoCut 3000,Home and Garden,Lawn Mower
+06d37bc6-5d05-4f2d-9f82-b099abfca87b,SummitShield Thermal Jacket,Clothing,Winter Jacket
+f10bba90-0f00-48b9-8141-2037d01c0f89,Arctic Thermal Pro Jacket,Clothing,Winter Jackets
+d4c61cc2-fb44-4817-9841-1773087ce4e1,Urban Trek 2023 Jacket,Clothing,Jackets
+e7a2de9a-e1fb-41dc-9287-5191cf6d9629,Nordic Shield Parka,Clothing,Men's Jackets
+c0bae534-e0b8-4e92-ae9e-d1ec64ab1e32,StormGuard Pro Men’s Jacket,Clothing,Men's Jacket
+a523b2cd-bd21-4799-8d37-df2e6b3f8b83,FlexiComfort Casual Tee,Clothing,T-Shirts
+bc62dab2-9cb7-46cd-852e-11710e6cebf2,StrideMax Comfort Sneakers,Clothing,Shoes
+67d5f2af-0f13-40b8-bf7b-d4d5da874ab9,CoolTech SmartChill Pro 500,Appliances,Smart Refrigerator
+1a2303ed-ffb9-4c28-b9bf-481fdf984e58,EcoSweep Max,Appliances,Vacuum Cleaner
+458ae897-43b0-4623-824d-c21e5154bb19,CoolMaster Pro 5000,Appliances,Air Conditioner
+228b1821-691a-463d-a0cc-1b0b80f40a52,StreamHorizon,Online Services,Streaming Service
+b0a405eb-39eb-4d2a-bf75-c01be4d365ea,Stream360,Online Services,Streaming Subscription
+1d544c5d-a87d-4da3-ac62-5bfe3c85710c,CloudVault,Online Services,Cloud Storage
+5db9df50-24cd-404e-8038-8ff10a1878f0,CineStream,Online Services,Streaming Platform
+98dea49e-4538-4874-a911-73eadd7b4a59,StreamWave,Subscription Services,Streaming Service
+eb598486-ec17-4096-98e6-785b35e0c2c7,StreamMaster,Subscription Services,Online Streaming
+e602123d-1ee4-4944-8c0e-8c6863a49ae3,StreamBox Premium,Subscription Service,Streaming Service
+18456e39-6d8c-4454-a38d-df4151aadb82,Elegance Extendable Dining Table,Home Goods,Furniture
+24d944a6-a037-481f-9902-807d7d9f22c0,BrewMaster Elite 3000,Home Goods,Coffee Maker
+831e7a3a-7dbc-43b5-9ad4-1beafe6340a3,Elegant Comfort Recliner,Home,Furniture
+cdd5c3aa-498e-4722-89f3-420e5a36ad06,EchoSound X1,Home Electronics,Smart Speaker
+58b7e5fd-eabe-4a02-96d7-1ff467056bf3,StrideMax Running Shoes,Apparel,Shoes
+769e6d85-69a6-4687-99f9-26767a941d46,Lumino Arc Floor Lamp,Home Decor,Lamp
+a836a9aa-a17e-4709-b37f-281ef0fb74ca,LumiCraft Artisan Table Lamp,Home Decor,Lamps
+3390c0ee-d38b-4b8f-b7d2-51d9390c3d07,Majestic Drape Velvet Curtains,Home Decor,Curtains
+bb40b16b-e9e9-4918-a57b-56dc5a568281,Serenity Woven Wool Rug,Home Decor,Rugs
+2ec4b8d1-c01c-4e7b-9095-4a9f1922eae7,FictionFlow Reader,Books,Fiction
+0497bef6-6492-418a-a3c1-6badfee19a11,StreamLine,Services,Online Subscription
+f1e25df9-ca08-4272-8767-df0f9bdcbaba,StreamSecure Subscription Service,Services,Subscription
+05f22255-1314-4c88-b479-9ce1a173312d,StreamGenius Ultimate,Services,Streaming
+ce332593-f894-43a0-89d6-64d3e308e386,StarNet Ultra Plan,Services,Internet Subscription
+3ccf8cc6-5b4b-4eb6-b12d-111d257bc27c,ClimateMaster Pro 3000,Home Automation,Smart Thermostat
+00ef3061-6751-4230-b6a7-c6b8b2ab12a5,SubscriptEase,Software,Subscription Service
+b0546c29-4ecc-4770-b4c6-695332e87d1a,FitTrack Pro,Software,Mobile Application
+af65473e-460e-40d0-8487-a9cc13072fd0,TaskFlow Pro,Software,Productivity App
+6952b17d-70e7-465e-bc7d-cec6c078e285,StreamMaster,Entertainment,Streaming Service
+bbd55d08-2b5d-47c8-89f7-fd51c1bedad0,QuickHeat Pro 30L,Home Appliances,Microwave Oven
+0beacb97-db62-48e1-b736-6e9a795ff156,TurboVac 3000,Home Appliances,Vacuum Cleaner
+1e8e33ed-befd-46af-b451-a0c8b1cac833,EcoSmart ThermoControl 3000,Home Appliances,Smart Thermostat
+50238167-d6ce-452a-8267-ee41d13bd4f3,AirPure Elite 7000,Home Appliances,Air Purifier
+0162e248-d52f-45bd-9946-25042ee3d2ca,CoolMax SmartChill 5000,Home Appliances,Smart Refrigerator
+69e9bcce-2ad9-4b44-a24b-cda38003b5ff,BrownBox Nexus Z1,Mobile Phones,Smartphone
+299b0e6b-ed80-4f76-a28a-c276c023c130,Serenity Teak Patio Set,Home & Garden,Outdoor Furniture
+e3b8febe-d74f-4a07-8ea5-215d93a87e69,Elegant Dining Suite,Home & Garden,Furniture
+b4f9a6de-448c-46cc-9377-f2fa8b27bf17,TechPhantom Y10,Electronics,Smartphones
+297000ec-9848-4411-8f7a-399174c77e87,EchoWave Smart Speaker,Electronics,Smart Speaker
+f4134916-be77-4661-84c9-d86cae3a13ac,SoundWave Pro 500,Electronics,Wireless Headphones
+34c6461f-98c1-4c6d-b487-e99a930fa680,SoundPro Elite,Electronics,Wireless Earbuds
+3e7eb3a7-0614-4356-ba4f-f93f5ec5be9c,ArcticTech Insulated Jacket,Fashion,Jackets
+ec9096a0-aeb2-47d4-93a6-4314f32a16fe,FlexStride Sneakers,Fashion,Shoes
+26575552-9780-4984-8791-4bc6e180d084,UrbanFlex Sneakers,Fashion,Sneakers
+1e08c3b6-d571-4543-8f75-a1ef775b970b,ThermoTech Smart Heated Jacket,Fashion,Jacket
+ec2872db-e125-4e3d-9d1a-619e78d06dca,StridePro Men's Sneakers,Fashion,Men's Shoes
+f3bc78fa-9a32-40c3-a4af-d3358c3b955f,Weatherproof Adventure Jacket,Men/Women/Kids,Jacket
+72cd179d-7323-4e4b-90ab-8fe796fe06eb,Urban Explorer Jacket,Men/Women/Kids,Clothing
+e8c6ba94-7479-4538-bbba-4ab10db64b6e,Modular Sectional Sofa,Home and Living,Furniture
+c722b3db-1714-48b4-ba38-e00d94631d9f,ErgoMaster Elite,Furniture,Office Chair
+3dca837b-754d-4f17-a37f-72a3b88f548f,Urban Comfort Sofa,Furniture,Sofa
+a0d97c61-a248-44ae-a495-ca5782e7ea77,Elegant Edge Coffee Table,Furniture,Coffee Table
+ecc8284b-b3aa-4c3b-a4bc-f70bf7adac47,Rustic Oak Extendable Dining Table,Furniture,Dining Table
+d7413579-25b4-4c12-a2bf-a69f8adf3976,Everwood Classic Bookshelf,Furniture,Bookshelf
+82103746-d694-46fb-9497-69c341142c00,StreamHub,Subscription,Streaming Service
+84a9f463-3938-4d7e-996d-bcd693f528e2,BrewMaster Pro 12-Cup Drip Coffee Maker,Home and Kitchen,Coffee Maker
+dcf81e30-bfc2-48b9-9f34-2bf54e4faa4d,EcoChef 10-Piece Cookware Set,Home and Kitchen,Cookware
+11d3e40e-b5b6-4238-90c6-3ddd7deb7579,TechZone Apex Z9,Mobile Devices,Smartphone
+780a624e-32ed-46a7-b4b1-592ce5411dad,StreamWave Plus,Digital Services,Streaming Subscription
+f751c4c9-3942-43b5-800f-a1b62480b5a8,CineStream Elite,Streaming Services,Video Streaming
+5acc38ca-df62-4a2e-b9ab-0edd0ee375bb,FitTech FlexRun 3000,Fitness Equipment,Treadmill
+1be746e9-859c-42a1-a79b-9b71b81fd128,ActiveFit Elite Pro,Wearables,Smartwatch
+31884464-64fe-4c3c-9338-ed54cff1a295,EcoBlade Pro 4500,Home and Garden,Lawn Mower
+cc045959-58e6-4c36-9453-b62ca7079a81,Oak Elegance Dining Table,Home and Garden,Furniture
+2a59fa26-a053-48cd-a7f6-0f92509ca36a,ThermoGuard Intrepid Men's Jacket,Clothing,Men's Jackets
+7b4e1305-4521-4d40-99dd-a23c18482566,RainGuard Pro Jacket,Clothing,Men's Jacket
+9e48c46a-2aec-4b01-84d4-1f6a6a76fd55,CoolSmart 3000,Appliances,Smart Refrigerator
+baa37594-99f3-4e55-ba1d-d50ec71ab5d8,EcoWash 3000,Appliances,Dishwasher
+6425d82c-b2a5-4a5c-94cc-5349ff7d07fc,BrownBox HeatWave 3000,Appliances,Microwave
+42f23900-e7f6-4eb5-83a7-23d78ee12521,Streamly,Subscriptions,Streaming Service
+95b8cf28-a878-4817-8ba1-80757da52337,HarmonyStream,Subscription Services,Music Streaming
+48621be0-9498-4df4-9eec-17845adf288a,StreamWorld Prime,Subscription Services,Streaming
+2554d3ad-80aa-43eb-a175-04e19b877147,Luxe Comfort 3-Seater Sofa,Home Goods,Furniture
+64637d3e-aaa2-44e8-aab4-88436a657bbc,UltraClean Pro 5000,Home Goods,Vacuum Cleaner
+939a5c95-7add-4df1-be63-4f1f70dd11ce,Smart Adjustable Dining Table,Home,Furniture
+7a2fbf07-411c-46f0-b91b-8c4e6e38be20,VisionMax Ultra 4K Smart TV,Home Electronics,Smart TV
+b5d508b1-91d0-4016-9b43-862df45e0dd6,Luminous Touch Table Lamp,Home Decor,Table Lamp
+225de600-b0c5-4e99-b4fc-f10956fbbc13,Regal Velvet Blackout Curtains,Home Decor,Curtains
+1ec7a1b0-9291-41d3-b385-b84762cc9ed5,Luxe Persian Collection,Home Decor,Rugs
+c6f6eae4-dcd4-4277-816a-95f2b774af81,Whispering Shadows: A Novel by James Harper,Books,Fiction
+0886669f-b019-4112-951f-8662bfe8fee4,Ingenious Biology Series,Books,Textbooks
+c3a6ab48-4663-4749-b587-fec482641d8c,StreamWave,Services,Subscription
+3af7f2ac-806c-483a-8735-a814510f899d,StreamWave,Services,Streaming
+e380c9e1-23ea-4039-bc98-6dc2eeef33f4,WaveStream Internet Service,Services,Internet Subscription
+c79fb03b-5ef2-4d9b-9ebb-c0d744fd46e7,StreamFlex Ultimate,Software,Subscription Service
+52171984-4a89-489c-8c45-01c19540f45b,PixelMaster Pro,Software,Photo Editing Software
+0771d318-c48e-4ee8-9e94-2a9951fe6c1c,CleanSweep EcoVac Ultra X,Home Appliances,Vacuum Cleaner
+cea059db-5a3b-4b08-bb35-cd9f5e5849d3,AquaClean Pro 500,Home Appliances,Washing Machine
+cf5c4500-30ff-42cc-ad41-4625d8b81818,CleanBreeze 5000,Home Appliances,Air Purifier
+d021a2c4-69e8-4e98-a06d-7ecb2a7b736f,BrownBox Quantum S20,Mobile Phones,Smartphone
+bc2efa8d-611b-42ee-aadf-2433fd465b69,Sunset Patio Set,Home & Garden,Outdoor Furniture
+0459585a-b812-47ca-a674-9bbd0b6fbb37,ProRun 3000,Sports Equipment,Treadmill
+139c37c1-4ad6-4430-a1b3-8b3d5a20e525,BrownBox ZX-2021,Electronics,Smartphone
+449d0880-35ff-4595-af10-2fc2988bbbd4,TechEase FlexBook,Electronics,Laptop
+bdb2c893-b70f-4bd7-a434-33320c95e153,SoundWave S20 Wireless Headphones,Electronics,Headphones
+6eff3337-7742-4e66-be08-f27b49bd7c47,TechVision Tab Pro 12,Electronics,Tablet
+5116c1e3-7197-4bfd-aa83-6187337f3ecb,TechMaster Vision Pro,Electronics,Smartwatch
+12df3e17-b4c2-4db7-acff-f11fcab35ab6,PrintPro Wireless 550,Electronics,Printer
+1f698e9b-dafc-4028-8791-fad0c454d86f,SoundStream Pro X5,Electronics,Bluetooth Headphones
+4dfecf64-c880-4691-8a99-19537fbb59ea,SoundWave Ultra,Electronics,Bluetooth Speaker
+c647fea3-91b3-4923-876a-b9bf5aaa47a2,Urban Explorer Jacket,Fashion,Jackets
+9bc4499e-ff70-424b-ae16-ac4efcd5a7ef,Urban Cozy Jacket,Fashion,Jacket
+fe11b1d5-680c-4fbd-9a23-12b5f892c0e2,StrideMax Performance Sneakers,Fashion,Footwear
+c2d4faa5-18e5-4852-bc23-b0716056612b,StrideMax Comfort Sneaker,Fashion,Men's Shoes
+d4ef8bb1-a51e-4740-8456-2964cb6f3a8b,TechWeave Smart Jacket,Fashion,Clothing
+a3a039e1-7b93-4454-9197-a34150b985b0,Summit Shield 360 Tent,Outdoor,Tent
+7f3e1d19-39fb-40c7-a19a-7c02ef44148b,PulseWear X1,Gadgets,Smart Watch
+ae4917cc-3d5b-48e6-9768-e78ee394a2dd,SmartPro Z7,Gadgets,Smartphone
+a6f49474-f09d-4172-8813-68588f030fa4,BrownBox EliteErgo Pro,Home and Furniture,Office Chair
+e49adaa8-0991-4cab-a413-64cd8176f509,LuxeComfort Modular Sofa,Home and Furniture,Sofa
+75c63454-601a-42ab-aa5b-cb84e1581ff7,FitTrack Pro X2,Wearable Technology,Fitness Tracker
+d6fd413a-fa70-414a-9faf-334aabcbeed4,StrideTech Running Pro,Men/Women/Kids,Footwear
+257b3307-8653-4335-8876-9ae1a1cbcf4e,StridePro Max,Men/Women/Kids,Running Shoes
+3e26a64c-4229-40cd-88d9-001d114f5dc8,NitroX500,Laptops,Gaming Laptop
+99a2fe51-3ff2-468d-aa12-d92846bcb912,SecureGuard Antivirus Plus,Computer Software,Antivirus Software
+94afa4a9-0e25-4e0b-b7ce-efccd8674138,UrbanElegance 4-Seater Sofa,Home and Living,Sofa
+06ed0d77-cbf6-4ca7-89d6-6a003e2476c3,Comfy Corner Sofa Set,Home and Living,Sofa Set
+1d27f4d0-c295-436b-b895-fac380eb2414,VoltGuard HG2500,Automotive,Car Battery
+3972c7ec-3c0b-4289-b3b4-245f556442a0,Streamline Ultra,Home Services,Internet Service
+63ff741a-3aac-4b73-b8dd-866ab91243b5,SparkleHome Cleaning Services,Home Services,Cleaning Service
+8e6ca082-0370-4c6e-b5e4-fb2544606903,Biology Today: Digital Edition,Books and Stationery,Textbooks
+027a8e9b-8b66-4819-b322-28b6600ba36a,Riviera Oak Dining Table,Furniture,Table
+a7708304-c724-4a32-93f6-32ea1ab67091,WorkPro Flexi Desk,Furniture,Desk
+a8925642-7b0b-47d3-a5a6-e16290c992a0,Elegance Sectional Sofa,Furniture,Sofa Set
+04928816-ae35-47ca-a0b4-0baafa8ae985,Oak Elegance Extensible Dining Table,Furniture,Dining Tables
+f288ae9f-e328-41aa-94d6-22c63ceb1ada,ChefMaster Elite Non-Stick Set,Home & Kitchen,Cookware
+6f266993-575f-4a5a-a0da-bc802045968f,Java Brew 2023,Home & Kitchen,Coffee Makers
+9ae0cd80-a34d-4508-9a7b-72ec1d3fc1a6,EcoChef 3000 Microwave Oven,Home and Kitchen,Microwave Oven
+ec194fd5-fcb8-4617-bd8b-dd75c9ca4aa0,SuperBlend 3000,Home and Kitchen,Blenders
+2ab4409b-955c-4565-834e-6f54e5e6dba9,EcoChill Pro 5000,Home and Kitchen,Refrigerator
+9d41264a-3b6c-4c52-b2f9-e05f958889b4,PulseTrack Pro,Smart Devices,Smartwatch
+2010a40f-fc7e-4e75-acfe-8f00cf9f6dac,SmartTech Infinity Z,Smart Devices,Smartphone
+e738b765-9198-417e-99f4-8ebe66e127f6,Zephyr Breeze 3000,Personal Care,Hair Dryer
+524c0097-c470-479d-a34e-fa323825fc6d,ProBright Sonic Toothbrush,Personal Care,Electric Toothbrush
+3efdd1ab-243b-4b83-9363-17c6eea42795,PhotoPro,Mobile Applications,Photo Editing App
+17d6285e-5163-482f-af08-629d0069e1cb,LuminaTech PureGlow,Smart Home Devices,Smart Lights
+58a0af1a-bf01-4a4b-950c-4a69ac43ce61,LumoGlow Smart Bulb Pro,Smart Home Devices,Smart Bulb
+4a96182c-4526-4b8b-b195-fb6c6d2fc1e0,BrightBeam SLB220,Smart Home Devices,Smart Light Bulbs
+25ab1e7f-232f-4cde-ba19-cd53bf25ff09,GlowRevive Brightening Serum,Health and Beauty,Skincare
+2b4b718b-20b6-454e-86ae-24587812ccf6,ComfyNest Modular Sofa,Household,Furniture
+13dea192-76c8-4950-a572-16e6622eb7ab,LumiFi Glow 3600,Smart Home,Smart Light Bulb
+13042beb-0478-4f67-af34-49c9f4b566c7,LumiSphere Smart Bulb,Smart Home,Smart Bulb
+e025faf5-f60d-43de-9a24-f029bbd18875,EverFort X3 Tent,Outdoor Gear,Camping Tent
+5860a179-9647-4800-b983-76e9fcc7b5c9,BrownTab X1,Mobile Devices,Tablet
+f4ec84f7-799c-4fbb-8bde-ebbe11d0f6fc,ComfyRelax Sectional Sofa,Home Furnishings,Sofa
+43c113e1-0eb9-4057-a167-cc84ff04efdf,UltraPhone Pro 15,Technology,Smartphone
+057f98e0-a9ec-438f-956d-b31d60cc9203,EcoSmart Climate Control 5000,Home Improvement,Smart Thermostat
+743fa201-3b0f-4e8d-823c-f0ef44e6e9cc,PrintMaster 3000,Home Office,Printer
+ed0c12f2-bc9e-4fb2-9d80-dece895233d2,PrintMaster 3000,Home Office,Wireless Printer
+ad407429-3f42-4572-8f5d-bc3d8e187218,SkyBox Cloud Storage,Digital Services,Cloud Storage
+810c2a4a-3568-412d-8af8-f1b73a9fc661,SoundWave,Digital Services,Music Streaming
+8ea774a5-5ae3-4a1f-8877-5e12395e08d2,SubscribEase,Digital Services,Online Subscription
+a8b4ca8c-b4ad-4d37-9e64-ae3d8a9baecb,BrownBox Online Banking Portal,Digital Services,Online Banking
+d6861758-f0fa-41e8-aa49-8120312624bc,StreamSphere,Digital Services,Streaming Platform
+bdb60a53-c0a4-4694-b230-cdabcbf51a91,GamerBox Pro X,Gaming,Console
+6ac8789b-a051-432c-8a16-b4ba90e9d69a,StreamPlus Premium,Streaming Services,Subscription Plan
+29a2d3f3-cdda-47bb-b810-095f7f8a2423,StreamMax,Streaming Services,Monthly Subscription
+73325b24-aaca-4798-832b-57649e69c074,CineStream Plus,Streaming Services,Movie Subscription
+c70b0ea8-52eb-4ba4-9563-543c9639cfbe,CineStream Pro,Streaming Services,Movie Streaming
+2eda4ee9-ad4d-4444-a883-9a40ed6c94cf,StrideMaster TRX2000,Fitness Equipment,Smart Treadmill
+68cee286-d8f3-40b6-a31f-f7af92d3a6e8,FitMaster Pro 2024,Wearables,Fitness Tracker
+e0e0b288-2a9a-45a1-a1a3-e5cad1d0b920,Harmony 4-Piece Patio Set,Home and Garden,Patio Furniture
+d1ee339f-0774-4bae-ad50-80c05db4de93,NetConnect Pro 7500,Home Networking,Router
+0b89681b-0733-4a19-81e3-253d9b789757,DreamWeave Bed Sheet Set,Home Essentials,Bedding
+ad1e3ec9-d29d-4186-962e-de36e1c439ac,HealthSync Pro,Mobile Apps,Health Tracking App
+b23cc381-2e02-4fc4-8f5c-1047b947da5e,FitSphere,Mobile Apps,Fitness App
+8056d253-35b8-43b0-bfc5-f8ff0361cc8a,ShopEase Mobile App,Mobile Apps,Shopping App
+9782eda0-ecf1-4408-8e30-1239dedd7bd4,ArcticGuard Insulated Parka,Clothing,Winter Coat
+0398c899-431d-4596-838d-1c8912336674,ComfiCrew EcoTee,Clothing,T-shirts
+6f859056-8518-4993-8d15-51e05ab18ff8,SprintMax Ultra Running Shoes,Clothing,Footwear
+a12127f8-0bb2-4d8a-9365-3473fe70efb6,Elara Grace Maxi Dress,Clothing,Women's Apparel
+9382bfba-a092-44e1-9ff1-d372678a2bac,Eclipse Slim Fit Dress Shirt,Clothing,Men's Shirts
+1f6be4ae-923b-44ae-a5e8-36f97d0b1093,ComfortFlex T-Shirt,Clothing,Casual Wear
+31f5ce5f-581e-447a-b835-cd0445f2361c,EleganceFlex Shirt,Clothing,Shirts
+532bb873-93b1-43d7-b83e-90fff560aa88,LuxeSpring Evening Gown,Clothing,Dresses
+4481217c-e359-4c8a-bb8b-26c61929cf66,CozyWeave Thermal Sweater,Clothing,Sweaters
+2533fda5-7f3e-4030-9358-e308730de60e,SonicSurround Pro 8000,Home Entertainment,Sound System
+57d1ec20-f00a-4a28-91d0-59de9e29d209,EchoWave SB-5000,Home Entertainment,Soundbar
+37b8ede5-6820-44a5-962b-77092805e92a,BrewMaster 3000,Appliances,Coffee Maker
+3d2a4183-5bb8-4e9b-a9f1-f15184be04ad,StrideMaster Pro 3000,Fitness,Treadmills
+c937e2e7-845b-48d5-854f-3906223279e9,FitRun Pro 3000,Fitness,Treadmill
+6c94a08a-8790-4d9b-99de-81803341315e,StreamPlus,Subscriptions,Streaming Services
+11446411-9d89-40ee-9bfe-e2d71faa9d2d,StreamCrafters,Subscriptions,Online Streaming Service
+91784a69-3c6f-4a48-a9b2-0c360ba8d825,SecureMail Pro,Online Services,Email
+eb130919-733b-4e2a-8ca8-4815fbd8829a,HarmoniStream,Online Services,Music Streaming
+f7080aee-eb4a-49e7-a158-220d253a48df,ShopEase Pro,Online Services,E-commerce Platform
+782476b3-c5ee-485b-bba3-9e58e6365ea9,StreamMaster,Online Services,Streaming Services
+a830d1c0-56db-4f72-b680-6c68148a0968,SubscriptEase,Online Services,Subscription
+37abc432-b9c8-46a7-b310-d2b69dd15785,ShopEase Platform,Online Services,E-commerce
+6c886a43-2a7d-4c84-9925-8f387b877cea,StreamHive,Subscription Services,Streaming Platform
+e4cd7839-f78c-4f68-a380-7e185715bcf9,StreamWave,Subscription Service,Streaming
+df94cacb-d593-4749-9c9d-c3d3de2f7299,StreamMaster Premium,Streaming Service,Monthly Subscription
+01648e19-af52-4058-bc2d-55b5ac13e2b5,StreamSphere,Streaming Service,Video Streaming
+d6de6a0e-bb03-4a03-91a6-e274e187cef9,Casa Luxe Persian Craft Rug,Home Goods,Rug
+59522557-f664-4b3e-aea9-1d5a4376b941,EcoChef Stainless Steel Collection,Home Goods,Cookware Set
+792c9ee9-b00a-4ef8-9965-074112f313f2,FrostGuard Elite Refrigerator,Home Goods,Refrigerator
+467691d9-5031-4f62-80fa-c664d14fc32a,Contemporary Oak Dining Table,Home & Furniture,Dining Table
+ac86426a-60d4-4d59-8ce0-f4871c571ffd,EcoSmart ThermoControl 5000,Home Electronics,Smart Thermostat
+7320e5c4-a452-4dae-bc38-a9b7e9fd4720,CineVue 55-Inch Ultra 4K OLED TV,Home Electronics,Television
+c671edba-5e29-41f2-8812-e9f78151f82f,Summit All-Weather Jacket,Apparel,Jackets
+218ad83c-37ca-45ab-8be5-582f5559097b,PolarGuard Pro Winter Jacket,Apparel,Winter Jacket
+563b5268-9468-4676-9ad5-90421185d573,NetCom FastWave AC1900,Networking,Wi-Fi Router
+bae682ee-3050-4d0f-813a-ea714d5246fc,LumiGlow Smart Table Lamp,Home Decor,Table Lamps
+8e9df3d2-fb2c-4162-a4a9-12f9bd420c05,Modern Elegance Floor Lamp,Home Decor,Floor Lamp
+9278c143-3cbb-4de8-96f7-d98932fe958e,ComfyCouch Deluxe,Home Decor,Furniture
+9d0a052f-b551-4632-8c80-af255f80fb94,EleganceLine Cushion Covers,Home Decor,Cushion Covers
+304223d9-3d75-4889-9df4-e2b59b25b32b,BrownBox Quantum Wave 800 Series,Kitchen Appliances,Microwave Oven
+f463a271-e9c6-4441-9cb8-de46c1df1287,BlendMaster 4000,Kitchen Appliances,Blender
+4f8adb6d-f28d-43f7-8e06-419bbeab9256,ReadEasy E-Book Platform,Books,E-book
+309d760d-3b0a-4937-a35e-791a1369880b,ReadEase Pro 9,Books,E-book Reader
+e5cd808a-26e9-4dfb-97bf-1278b8554486,ReadRight E-Book Platform,Books,E-Books
+f81cdd22-198d-4342-abc7-741bfeff0891,ReadEase Digital Library,Books,E-Book
+040081dc-321d-45ed-aa86-b4275a20f6e7,Whispers in the Wind,Books,Fiction Novel
+359efb40-ef57-4c31-b422-6641213bb5c9,LitLink Reader,Books,eBooks
+fe8b5286-a963-4ff6-937b-a9476a1b696b,The Last Echo,Books,Novel
+ffd9075a-c4e9-45c4-9e63-93ecee3d80e5,Advanced Algebra: Concepts and Applications,Books,Textbook
+1594c440-c0b3-45d7-a4dd-3d62983eaffb,BrownBox Ebooks,Books,Ebooks
+dbf3555c-841f-4ae4-b137-1846d1e84e00,NetEase Flex Plan,Services,Internet
+3725908f-8071-4df3-8b18-2f665e6de41a,SpeedNet UltraFast Fiber,Services,Internet Service
+d27be763-0842-4151-a997-4a3b82a99e0b,SubMaster Cloud,Services,Subscription Service
+7a31243c-c4c1-4e82-a990-444242d1a318,NetFast Unlimited Plan,Services,Internet Plan
+8ab0c4c0-eab8-4bf6-a57a-b1700a14e077,StreamNest,Services,Online Streaming Service
+95084d5b-48f6-460b-bcf4-f8d6910fe3d2,CinemaStream Unlimited,Services,Online Streaming Subscription
+576cfa18-bd4e-4090-a109-839fac26bfd2,WaveStream UltraConnect,Internet Services,Home Broadband
+2886db2f-be9d-4ce6-85a6-1c9234c169d8,LumaGlow Smart Bulb,Home Automation,Smart Light Bulb
+24c1b28c-aa9b-4ad3-a8f0-0a814cbd2972,StreamEase,Service,Online Streaming
+8014a194-75c0-43db-9bbb-e15c973187c9,EmailSecure Pro,Software,Email Service
+5a88412d-8446-4464-b017-ab3860b90741,SecureAccessPro,Software,Online Platform
+1447a074-16eb-4723-b537-0819191c8be9,ProjectTrack,Software,Project Management Tool
+b8579c5c-947c-4722-a730-dfcf29fec8a4,ProTasker Suite,Software,Productivity Software
+b8be4938-c562-469b-96b2-d8702a32c2ba,CineCraft Pro,Software,Video Editing Software
+f46a24ba-631b-4732-85ba-58a07b5acd68,StreamMaster Plus,Software,Online Subscription
+9b564d71-c538-411d-9c39-034be84a3c70,SkyVault Cloud Storage,Software,Cloud Storage Service
+6b44447a-eb59-4693-b0f3-4b67c10a3ad6,DesignMaster Pro,Software,Graphic Design Tool
+b1b8e876-6bdc-41c7-88b1-5855c7fa1d50,TaskMaster Pro,Software,Productivity Tool
+43bdd12a-f506-4d16-970d-578f4b13969b,CloudSync Pro,Software,Cloud Services
+d2047237-7458-4ba0-82a0-cd6c66f919cd,Effigy Productivity Suite,Software,Productivity Suite
+9d7974fc-fe15-4742-a588-c68447d6a55b,SwiftMail Pro,Software,Email Client
+6b0b47a4-7dd5-4567-a419-afe7643bb4c7,StreamWave,Software,Streaming Service
+9f8624cc-7f0c-46d0-8d99-f90fb0bd22bf,Velocity Pro Runner,Footwear,Running Shoes
+206a7cd3-ebdc-4618-93f2-31df228addbf,PowerCare Billing Monitor,Utilities,Electricity
+f29fe395-abb6-4cba-9610-91adaeb1c4e2,EcoCut Pro 5000,Gardening Tools,Lawn Mower
+0850a34d-5f8a-4b6e-b190-9c4dca3a53cd,ShopEasy User Account Manager,E-commerce Platform,User Account
+8710ffa7-514d-41ca-be8e-83ace27438b3,PulseSync Pro X1,Health and Fitness,Smartwatch
+167a0ce3-33b0-4397-890e-e1dbfe35d97a,DataGuard Pro 2TB,Computers,External Hard Drive
+0564b37d-7802-4f1a-b95a-be1f29c1a51b,VClean Turbo X10,Home Appliances,Vacuum Cleaners
+8a4aa9dd-3866-4463-b327-a5974afaae12,EcoChill 5000,Home Appliances,Refrigerators
+cd66ccb5-d70d-4762-8bae-cb68fd1b927b,BrewMaster Pro 3500,Home Appliances,Coffee Maker
+45c6bc17-f26f-40ce-9a2e-530f2bde94ed,Rustic Oak Coffee Table,Home Furniture,Coffee Table
+98d8fc06-c5e4-4044-9d81-6daa69d26bf2,BrownBox Z1 Pro,Mobile Phones,Smartphones
+a5096b8b-80e3-46fa-b2b0-068f9f0875cc,Eclipse ChronoSmart Watch,Fashion Accessories,Watches
+6b304830-8524-484c-8425-c2c84af14404,BrownBox HyperFlex Pro,Computing,Laptop
+42ea48c5-9def-4230-ae56-4598bf34cf90,SoundWave Pro 360,Electronics,Smart Speakers
+f42632ad-583f-4545-905f-96aae29f3045,ZoomX Pro 5K Camera,Electronics,Camera
+26602f36-2888-404e-9f0b-3717eca65da1,WaveGen AC1200 Dual-Band Router,Electronics,Wireless Router
+000e6aa1-14c4-4e7b-80b9-ff7345ac6654,ChronoTech Z3 Smart Watch,Electronics,Smart Watch
+b2235d97-008b-43ea-9d94-879a31bc470f,CinemaSound HTS-3000,Electronics,Home Theater System
+bf0d2491-e42e-40f8-98fa-17b7260dbd0d,SnapMaster Pro ZX400,Electronics,Digital Camera
+228489db-62c6-4c51-ae07-b47019bacb31,Alpha Z10,Electronics,Mobile Phone
+0ff7805a-539d-4524-92a6-301e13a7fe10,VoltMax 65W Universal Laptop Charger,Electronics,Laptop Charger
+6f5892bc-228b-4640-8073-8361de2f6fdb,BrownBox Tab Pro,Electronics,Tablets
+4efcc021-799d-48c1-9760-e4efc5f7f2b2,TechDock Ultimate Pro,Electronics,Laptop Accessories
+f712fdbe-0edc-4c80-9b6c-a982b529892c,VisionMax Ultra 4K Smart TV,Electronics,Television
+096cda57-42e2-4c13-9756-34628413b0c9,ThermaPro ST300,Electronics,Smart Thermostat
+e1a7c5b3-9eb1-43a3-bf42-775bec9136a5,GamePro X200,Electronics,Gaming Console
+40a18c92-4222-417f-a932-6d53ce7ae12f,HomeSync Hub 3000,Electronics,Smart Home Device
+a3131e6e-4218-480b-b17a-0e56a91dfdf5,QiDock FastCharge Wireless Pad,Electronics,Smartphone Accessories
+04399a6d-e5c0-44f7-97d6-41bc82a0bfa8,BrownBox SoundWave Z300,Audio Devices,Wireless Earbuds
+b0a32d50-7cfc-4de2-bf30-6335550f4574,Elegance Stiletto,Fashion,Women's Shoes
+bfd73235-95ba-4a3d-a171-303eefe98d81,StrideMax Pro,Fashion,Running Shoes
+679773b0-1035-42db-a7f5-082db99b364a,Elegant Essence Maxi Dress,Fashion,Women's Clothing
+940b2eed-a079-4158-aba0-aad5c90b68c1,LuxeStyle Elegance Tote,Fashion,Designer Handbag
+78f4a16e-ca98-42e1-bce2-2d3ef39b404f,Crescent Luxe Handbag,Fashion,Handbags
+6f171b10-8349-423d-b31d-fbed8c5b9d27,Arctic Luxe Thermal Parka,Fashion,Winter Coats
+0e770b32-bc9b-43f4-bbf9-f671526126ec,Explorer Pro 4,Outdoor,Camping Tent
+439c6ead-7cd6-46b2-99cd-7a032171fe6d,GreenHarvest Box,Groceries,Organic Vegetables
+fe3b535f-a3cf-4bca-9640-66b59220ad33,EchoSound 5 Elite,Gadgets,Smart Speaker
+7b57c14e-1fc4-4e68-aee1-f8e9a5817b29,BrownBox ErgoPro Max,Home and Furniture,Office Chair
+cafbcf92-df54-4930-99d2-c298aa0db060,The Livingston Luxe Leather Sofa,Home and Furniture,Sofa
+56c5694f-ddc5-4c5f-9337-3c954e542106,SmartX Pro 10,Mobile,Smartphone
+20071821-e63a-4a50-9915-5584ee685b83,JetPrint Pro 300X,Office Supplies,Printer
+98b43c95-36b6-4226-8404-8719078697f0,PulseSync V300,Wearable Technology,Smart Watch
+a89f24d4-3c48-4874-a35f-2d0c6552a159,Quantum Sprint Sneakers,Men/Women/Kids,Sneakers
+111068c2-c6c5-4df3-9136-7d7caef8d298,FlexiWear Customizable T-Shirts,Men/Women/Kids,Apparel
+8a341724-8ea0-4d17-ad2d-c984afd57342,TrendyThreads Denim Collection,Men/Women/Kids,Jeans
+fdbe2426-ac6b-404d-b863-e6de3f2cacc6,StrideFlex Running Shoes,Men/Women/Kids,Footwear
+b97d782f-4d5e-4364-b265-bda964c408e3,SkyFly EasyBook System,Travel,Flight Booking
+a13252f3-3838-440d-943f-72dc6d239834,SecureGuard Antivirus,Computer Software,Antivirus
+8efb4ac6-890a-4f2d-9e69-7a839de69296,Modern Comfort 3-Seater Sofa,Home and Living,Sofa
+d5b7e377-a099-481a-a161-fe08f60d8922,Comfy Nest Sectional Sofa Set,Home and Living,Sofa Set
+eccd5f70-9018-421b-8bc0-ee3315b99f63,PowerMax Ultra 2000,Automotive,Car Battery
+600d4d81-817a-4348-8945-5f1efa1c3a12,Spotless Home Deluxe,Home Services,Cleaning Service
+8dfeb92d-fc46-4f01-b99e-14c05c7281e7,AcoustiWave AirBuds Pro,Accessories,Wireless Earbuds
+c831b95b-12d5-47fc-a92b-2ae597a64dc8,TravelConnect,Telecommunications,Mobile Plan
+14a89fee-3699-4eea-add3-b2f3a6bf686c,Rustic Oak Dining Table,Furniture,Table
+4d7cff3c-50a2-4cf0-ac69-3663a7d80129,Luxura Comfort Recliner Set,Furniture,Sofa Set
+06181a64-e149-4c2f-979f-e1aef835c098,Serene Comfort Sectional,Furniture,Sofas
+8f69b900-9979-437f-b1ba-1c06b417fb00,ErgoLux Pro Chair,Furniture,Chair
+49b74654-6c95-4915-81ce-f9749450a7bd,SuperBlend 3000,Home and Kitchen,Blenders
+fe075185-597c-4f3b-8350-6da2e2ea1e76,PolarChill PC2020,Home and Kitchen,Refrigerator
+2109f57c-665c-4435-b194-650fc186dcd4,PulseSync 5000,Smart Devices,Smartwatch
+9dd08db3-b1bf-4d90-91c2-af0826143abe,EchoSound Model X,Smart Devices,Smart Speaker
+284cf7ba-7a1a-4925-8b89-e491e321f8c9,CleanCare SonicBrush X200,Personal Care,Electric Toothbrush
+f7385613-0b01-43ae-ba1e-d3113b597ceb,StreamWave,Mobile Applications,Streaming App
+ceffdc14-a525-459d-9b43-f2ae07ff2a2c,FitTrack Pro,Mobile Applications,Fitness App
+54ab71e7-6a4d-452b-b120-3a549f44d8a5,BrightBeam SL600,Smart Home Devices,Smart Light Bulb
+68a8dda5-f9dd-4d79-ba56-8af090cb8c7d,EverRest Modular Sofa,Household,Furniture
+b0491d43-29df-42da-ba99-abe3747a37f2,EcoSmart LightPlus Bulb,Smart Home,Smart Bulb
+1d57235e-9b9b-4dbc-8707-b80f790d4b00,SmartLux Advanced A50,Smart Home,Smart Light Bulbs
+b2d21fdd-2abb-48b3-8d9f-3f4902385035,ComfyLuxe Modular Sofa,Home Furnishings,Sofa
+7078614a-afb1-4d4b-906e-a1cf9a04197b,Galaxy Ultra X,Technology,Smartphone
+068e3a53-846a-4a59-bed2-986c0e969443,EcoControl Smart Thermostat,Home Improvement,Smart Thermostat
+453f146a-ef7a-4ea7-b554-d2839a8dd901,PrintMaster 3000,Home Office,Printer
+e7046c1c-417f-47be-8fc9-e2e580dd3919,ErgoLux Executive Desk Chair,Home Office,Desk Chair
+fb94bd19-2e4d-46e1-8cb8-8bf15824c01c,SkyVault Cloud Storage,Digital Services,Cloud Storage
+e6b0ea4e-3eee-407a-bd8c-05bf270ffb7e,BeatStream Plus,Digital Services,Music Streaming Service
+3e34bd8b-6804-444b-bbf4-f563e0a10d53,SafeNet Online Banking Portal,Digital Services,Online Banking
+002df8aa-dd68-4276-8de0-68828bba8b82,StreamMaster,Digital Services,Streaming Platform
+4cfea929-7a40-4224-8262-da28ce778f92,Vertex PlayStation X,Gaming,Console
+58659ccd-a30c-4478-ab02-436b51857263,Vertex GX1000,Gaming,Gaming Console
+ea1311b6-8349-44b2-a043-393afd5521c1,CinemaFlex Premium Package,Streaming Services,Movies
+c7398ee3-97d8-40b5-badb-c8f0f9ec1f2b,StreamEase Plus,Streaming Services,Subscription
+56b10eb4-aa36-42dc-80b4-10354bff853c,StreamFlow Monthly Subscription,Streaming Services,Monthly Subscription
+557fc748-2a4f-4501-b4a6-91231b92c478,UltraView,Streaming Services,Video Subscription
+41dd8651-c5c5-4ec4-b48a-ca1749b94e44,ProRun 3000,Fitness Equipment,Treadmills
+05f047c2-7883-42cb-afe7-272d5a71e084,FitPulse Tracker,Wearables,Fitness Tracker
+592f9262-0abb-4219-ab36-396afc2f993a,DreamWeave Bed Sheet Set,Home Essentials,Bedding
+6b683e67-554c-4744-8b97-126e879c53fb,ComfiCouch Deluxe,Home Essentials,Furniture
+a5ec582d-d436-4a31-b0bf-404ddde1b4f3,LuminoPix,Mobile Apps,Photo Editing App
+44858051-6647-4f1a-997d-f40f269b0626,FitLife Pro,Mobile Apps,Fitness Tracker App
+4f42332b-9d94-4b37-9eff-9666a932afcd,SkyTrack,Mobile Apps,Weather App
+ba953010-bb20-461c-9451-4fbf549d8959,SmartSub Manager,Software Services,Subscription Service
+ce19e577-6924-4056-a77b-e6805e4327e2,SecureCloud,Software Services,Cloud Storage
+dc2a97a6-545d-452e-b164-1fe3017c5a48,UrbanFlex Men's T-Shirt,Clothing,Men's T-Shirts
+8768a31c-2504-4391-b17c-120a24431651,ComfortPlus Classic Tee,Clothing,T-shirts
+b997a9fa-5396-4196-a935-37a648097b60,StrideFlex Pro,Clothing,Men's Shoes
+2012470b-d790-499f-915b-b27e5591c41a,Elegance Flow Maxi Dress,Clothing,Women's Apparel
+75959544-40a0-489b-a72c-73dc2f99e437,BlazeFlex Comfort Fit Shirt,Clothing,Men's Shirts
+fddca773-7fdc-46b2-af07-043a51fbd51f,UrbanEdge Stretch Jeans,Clothing,Casual Wear
+4193c96b-b44a-4f64-924a-3571913c8467,BreezeFlex™ Performance Shirt,Clothing,Shirts
+c34e89aa-692d-4b25-853f-af5f5ab17193,UrbanEdge Men's Jacket,Clothing,Men's Apparel
+1180e605-b540-433b-9dfc-3b40ccc230a4,TechPro X200,Computers & Accessories,Laptop
+3e161842-63b1-493b-b3ae-d5740b66584f,SonicSurround 5000,Home Entertainment,Sound System
+0d272a51-189a-4abb-9ad4-e48b9261cecb,CineStream Ultra HD,Home Entertainment,Streaming Device
+fdcbc45b-065e-48b4-8b60-d0d53428f1cb,BrownBox ToastMaster 5000,Appliances,Toaster
+c468bbb8-f2cd-4952-8272-e1ff7b16fd93,BreezeMax AP3000,Appliances,Air Purifier
+071ff87e-e312-44a1-8e3f-fbf9c0ebb627,BrownBox XZ5500 Smart Ultra TV,Appliances,Smart TV
+5fc72cf3-781c-48f7-8b7a-5edabc952d87,VitaBlend Pro X5,Appliances,Blender
+ccdfe1ae-9234-491d-b714-54815327ed07,ProFit Runner Advance 3000,Fitness,Treadmills
+6d1f29f6-1577-4cfd-9ea2-ab561e40f586,StrideMaster Elite 4000,Fitness,Treadmill
+1a194215-bad4-442b-a71d-b56183f907a2,Lisbon 3-Seater Couch,Home & Living,Furniture
+17e7be01-cbfa-42bc-aa90-440909716a54,ChefMate Non-Stick Harmony Set,Homeware,Cookware
+7e56b633-f17f-4bc2-abd3-85d7e59966e1,CommercePro,Online Services,E-commerce Platform
+179d8765-3a2d-4194-8133-bfe472556e80,StreamEase,Online Services,Streaming
+8ea43855-daa2-41dc-9d31-cf6fabf49957,BrownBox Premium Plan,Online Services,Subscription
+4aadf7a7-1e8e-42d4-a001-8f1db5373ee6,ShopEase,Online Services,E-commerce
+f8881263-2052-48c0-a4ca-4de1dc6ac51e,StreamFlow,Subscription Services,Video Streaming
+23fee8a2-812c-4ad3-b830-6eb068c30655,StreamFlix,Subscription Services,Streaming Services
+cefbc60c-8fb0-404b-b51d-7ca888b8dfb4,WatchWave,Subscription Service,Streaming
+d401587e-d824-4c1a-8b15-962ef586a45b,MelodyStream,Subscription Service,Music Streaming
+b13ab88a-7fda-417a-ac0f-bcaf7b740c49,StreamWave,Subscription Service,Online Streaming
+1ad63e52-9838-4532-8397-85456c203861,StreamFlow,Subscription Service,Streaming Platform
+17cafca0-47da-450e-9519-9d0a94b4801f,StreamX Monthly,Streaming Service,Monthly Subscription
+c3a070fe-56af-4833-b390-19d3abc8ab6d,ThermaSmart X100,Home Goods,Smart Thermostat
+58392140-814e-489b-9bb8-9ffca4d46de2,Elegant Oak Dining Table,Home Goods,Dining Table
+b09309c4-108e-4102-b9bf-8904e1328b99,CozyHome All-Season Cotton Comforter Set,Home Goods,Bedding
+2bd79a88-17a5-4fcc-846c-e0294fc8a33d,Serenity Thermal Blockout Curtains,Home Goods,Curtains
+f6f04c82-a2f0-4fd4-a525-21ed210c9394,Gourmet Pro Cookware Set,Home Goods,Cookware Set
+dea19597-df4a-46c9-8e70-38c47a869c1e,LumiGlow Smart Lamp,Home Goods,Lamp
+bf48f059-7dcf-4d41-8d4c-96bb5b4d69d5,GourmetCraft Non-Stick Frying Pan,Home Goods,Cookware
+ac0f1fb5-0cfa-48a5-9661-fc0074d4fed6,LuminGlow Table Lamp,Home Goods,Table Lamp
+5f7cd552-a3bb-4242-b6c7-8bd8e1c43708,Zenith Walnut Coffee Table,Home Goods,Coffee Table
+6d5382a8-b8f7-4b8b-918f-cf242d65608f,ComfortWeave Bedding Collection,Home Goods,Bedding Set
+247e4f2d-9b20-42da-8c0b-37c44f4ba119,TechXpert Z10 Pro,Consumer Electronics,Smartphone
+eb0bb0d9-d756-48ff-a70b-fc6762c9c353,ClimateControl Pro 8000,Home Electronics,Smart Thermostat
+92c929e6-4c7c-4c00-aab6-a4fbfe4b041e,Nimbus Trail Jacket,Apparel,Men's Jacket
+968d5708-160e-47f2-9df4-c1a938724f18,NetWave XR5000,Networking,Wi-Fi Router
+5519ad8a-e015-4cb8-878c-a7c791bb8b0f,BlendMaster Pro 700,Kitchen,Blender
+cac18521-2a66-4aa3-90ff-b2e70b553eec,Elysian Glass Vase,Home Decor,Vase
+965b0ae6-d6a0-4057-8528-d82473cde7e3,ElegantTime Serenity Wall Clock,Home Decor,Wall Clock
+36be1e94-9d0c-443d-96da-6d5e0335f37c,SuperBlend Pro 1000,Kitchen Appliances,Blender
+b6b2322a-7148-4b30-a8f0-de7876fe5f89,The Enigma of Echo Valley,Books,Novels
+80299374-fe61-495c-a747-fac29112ca6a,BrownBox Reader Plus,Books,E-book Reader
+bb0de98e-871f-41f7-a628-79ccd6f2baf3,ReadEase Pro,Books,E-Book Reader
+a32ad298-b281-4b81-ba49-63d96b7f82ed,PageTurner E-Reader,Books,E-Books
+4e3588ef-cbd8-401c-ab55-09ba5b880490,ReadMate E-Book Platform,Books,E-Book
+92a1a44b-76a3-4416-9cea-b4682c529a76,The Eternal Quest,Books,Fiction Novel
+cfbe4547-38c1-428e-a15a-8988f30aabec,PageTurner App,Books,eBooks
+29776b29-8ccb-47b2-86e7-733faac1dbd4,Whispers of the Willow,Books,Novel
+7124747d-dcce-4f00-ab79-0ae611cac2d2,PageTurner Ebook App,Books,Ebooks
+cdada2ca-e73a-4b08-94e5-95b0c9af010f,EcoCamp Dome,Outdoor Equipment,Camping Tent
+b4d5bf47-4ceb-4d49-b0a0-01cfef6f67d6,BrownBox,Services,Online Platform
+21effbd3-a76e-4bd2-a521-ecd31cc6896f,StreamLine Internet,Services,Internet Service
+424e5c02-0cdc-436c-baa3-ac01855c8b0c,SubGenie Premium,Services,Subscription Service
+38346737-6920-4b6f-9591-8958ae110e1f,TuneFlow,Services,Music Streaming
+aa046b8d-7fe1-4577-9993-544dfe8919c0,SpeedWave Unlimited,Services,Internet Plan
+56df3076-4d63-48ea-8943-78fff060f331,SecureAccess Portal,Services,Online Account
+9d8ca5af-fd98-466b-870d-15922694cf2c,StreamPlus,Services,Online Streaming Subscription
+861660a8-be93-4686-a188-8ede24f4490b,SkyVault Cloud Storage,Services,Cloud Storage
+11acf679-231a-469e-9682-a3e8461a9429,SpeedNet UltraHome,Internet Services,Home Broadband
+3f047021-8040-42ab-a826-1ee198cf5841,LumiConnect BrightBulb SL987,Home Automation,Smart Light Bulbs
+c383a5ce-4e7d-49f6-a825-9cf4c1215bc4,GlowSmart A21,Home Automation,Smart Light Bulb
+6308949e-4a99-47a3-aa6f-7bd26eb831a8,MailSecure,Software,Email Service
+498cd716-f5ad-4c55-94d1-38f78bcf16c2,AccountEase Pro,Software,Online Platform
+a103c093-555b-47d9-ba9c-5788818d93e2,FitLife Pro,Software,Fitness App
+10cb947c-9bbe-424e-9d27-a7c470a39fbd,ProjectFlow,Software,Project Management Tool
+4dc64930-66a0-4087-849d-cbb6da3bb32a,EditMaster Pro,Software,Video Editing Software
+406d5f47-c817-4f03-b1a5-9c6944c26e7e,StreamMaster Plus,Software,Online Subscription
+aded115c-e4a7-4c8b-ba51-d6bbb6feeacb,SkyBox Cloud Storage,Software,Cloud Storage Service
+33a84a52-5de6-490d-8c2c-c07dcfdc8ba2,CloudFusion Pro,Software,Cloud Service
+54d5b355-5c1b-4584-b631-9994464117bd,AccuBooks Pro,Software,Accounting Software
+edaa693b-2342-4a1d-8ff0-234010eee931,PassGuard,Software,Cloud Services
+0df41aa7-d886-4483-ab64-b18bf1df1456,TaskMaster,Software,Mobile Apps
+4224bd2d-3f88-46fc-a9a2-e6e29ed8dbd6,SwiftMail Pro,Software,Email Client
+29c71299-eb2a-4c87-98f1-393690568cfd,StreamEase,Software,Streaming Service
+0b062947-01a3-4e1c-b862-c7f75bc767ba,StreamFlex,Software,Online Streaming Service
+4eab3e48-dc91-4731-be90-fbffe009a089,RoboVac 4000,Household Items,Vacuum Cleaner
+f2ea55ac-cbd2-4803-9fc9-400838a34a72,PowerTrack Smart Meter,Utilities,Electricity
+9bb66ac3-8188-4367-b2dd-e46d924fb0c7,ShopEasy Account Manager,E-commerce Platform,User Account
+fc59157b-21c8-486c-ad3c-07db92bdeed4,TechStore THD Pro 2TB,Computers,External Hard Drive
+6a117192-32c3-4502-9235-b6dbaa37ff1e,GX500 Pro,Computers,Gaming Laptop
+48a2d7db-247b-4b0a-a9ea-fefcc27573e1,EchoSound Pro,Home Appliances,Smart Speaker
+973ee8a1-0c15-4023-aa67-cb5c46b934a2,HomeEase UltraClean 300,Home Appliances,Dishwasher
+020ef5a5-e10f-4315-932d-4ecd072dac49,CoolSmart Eco-2024,Home Appliances,Smart Fridge
+b40c530c-aa1c-4556-a0d9-e373d56fbccd,ToastMaster Pro 2000,Home Appliances,Toaster
+f64987e0-a582-4e89-9c06-72435a044960,ErgoMax Deluxe Chair,Home Furniture,Office Chair
+9a1fbf17-1f8a-4ee2-bf94-00bc647e24d7,Glenwood Oak Coffee Table,Home Furniture,Coffee Table
+bfbdd157-b413-4c8b-ab3c-81e46def27d6,BrownBox Phoenix Pro,Mobile Phones,Smartphones
+24295f0c-c6e0-421b-a824-562d817d2c89,BrownBox Stellar X9,Mobiles,Smartphone
+06a5d9e1-3a79-46cc-8861-6fdfe0aef38e,Radiant Glow Skincare Set,Beauty,Skincare Set
+96930b5f-85ac-482a-8ae9-d102610068b7,LuminoSmart Classic Watch,Fashion Accessories,Watches
+c9de4a5e-01f3-4fe1-bc5d-33aed2fd4e8a,EcoFlex YogaPro Mat,Sports Equipment,Yoga Mat
+7337ee0e-2997-44e1-b982-c8b81ef8de18,ProSpin 5000,Sports Equipment,Tennis Racket
+acd2d1c9-cca0-4014-8f25-2ee01edf08ed,BrownBox BBUltra2023,Computing,Laptop
+4bb40062-32ec-49e9-a468-96838c53c233,VistaCapture Pro 4K,Electronics,Camera
+fde78b54-267d-4222-9b84-f21807d0ae94,BrownBox Quantum Z5,Electronics,Mobile Phones
+b2ef8862-049a-49e8-8df5-cc2169da2811,CineSound HTS-4000,Electronics,Home Theater System
+c30af9f0-30f4-4bd9-bfd5-4645468440d7,SoundBlitz Pro,Electronics,Bluetooth Speakers
+bfaa8ff2-af2c-4ceb-a473-c325c5c295cd,SpeedyWave H500,Electronics,Wi-Fi Router
+8d69a33f-1d52-449f-ad1d-e07a8637b454,TechLink DockMaster Pro,Electronics,Laptop Accessories
+a097cfc3-3ee7-4f58-976f-0b0f34678aaf,EcoTherm Smart Thermostat ST2000,Electronics,Smart Thermostat
+35ecd778-0524-4ca8-a44f-54ae2500f053,VisionTech UltraSmart TV,Electronics,Smart TVs
+70abea19-95d4-4fcb-8496-6f3e765878a3,GameMax Omega G2,Electronics,Gaming Console
+29cd860c-3909-4239-b36e-1107ee5da583,HarmonySound Ultra,Electronics,Wireless Speakers
+de979c6c-b2ff-42e4-a7a7-68b957509b2d,HomeConnect Pro,Electronics,Smart Home Device
+13aafd74-cafc-4258-8ac7-01c5840acbd7,ChargeMate Qi Wireless Charger,Electronics,Smartphone Accessories
+3550ce60-11c3-4ae9-9b25-1c2fe654b73c,ElegantStep ComfortPlus Heels,Fashion,Women's Shoes
+61dd2bf3-4593-4bc3-a18c-3c0d28ccc1e8,EverStyle Men's Jacket,Fashion,Men's Clothing
+0feb0cc8-261b-4dbb-b005-d2f8ee807863,SprintPro2023,Fashion,Running Shoes
+56348660-8e5d-479b-8d97-916b950115b3,ArcticShield Deluxe Winter Coat,Fashion,Winter Coat
+608148dd-0389-4f48-b9fb-64042477fb9f,Urban Shield Jacket,Fashion,Men's Jacket
+8bf7e3b6-ab2c-4942-bd92-1b50567a21e3,ChronoLux ABC360,Fashion,Watch
+444854e3-f66b-489e-b41b-142765aa100f,Elegance Pro Chrono,Fashion,Watches
+bbcfa791-f816-4c9e-8355-e0f75144c588,Elegance Premium Leather Handbag,Fashion,Designer Handbag
+c0d6bc20-f79e-49bc-9123-7e9c1b1124a2,Urban Chic Leather Tote,Fashion,Handbags
+701eb097-c97f-4fd8-9230-76dc87c8b5b6,Arctic Shield Unisex Winter Parka,Fashion,Winter Coats
+105f6da5-5db8-413b-b990-7893ee4d3833,Aurora Oak Coffee Table,Furniture,Coffee Table
+bc844082-9e46-4b4c-a6f6-25950e3fe552,Aria Modern Bookshelf,Furniture,Bookshelf
+d123b55d-d1bc-420b-8504-4c017e311247,SoundWave X5 Pro,Electronics,Headphones
+573387c9-359a-492d-bf3a-9a9d45075235,StormShield Pro Men's Weatherproof Jacket,Men/Women/Kids,Jacket
