@@ -9,17 +9,8 @@ When a user submits a question through the deployed Databricks App, the AI agent
 The solution is deployed as a Databricks App with a chat-based interface, enabling users to interact with the AI-powered customer service agent.
 
 ### Technology Stack & Environment Specifications
-Azure Databricks, Databricks Apps, Agentic AI, Retrieval-Augmented Generation (RAG), LLMs, Python, MLflow, ResponsesAgent, Unity Catalog, Unity Catalog Functions, Databricks Vector Search, Vector Embeddings, CSV, PDF Documents, and Model Serving.
+<img width="650" alt="image" src="https://github.com/user-attachments/assets/cfd48d2b-3805-4126-aaac-6c756da7aba7" />
 
-| Component | Version / Configuration |
-|---|---|
-| Python | 3.12.3 |
-| MLflow | 3.12.0 |
-| Compute | Databricks Serverless Compute |
-| LLM Model | `gpt-oss-120b` |
-| AI Framework | MLflow `ResponsesAgent` |
-| Vector Search | Databricks Vector Search |
-| Platform | Azure Databricks |
 
 
 ### Architecture diagram
